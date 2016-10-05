@@ -1,5 +1,5 @@
 # Waveform
-OpenSource PHP Waveform from MP3 with lame_dll Generator Class
+OpenSource PHP Waveform from MP3 with lame.exe and lame_enc.dll Generator Class
 
 ![sample waveform](https://github.com/Tnifey/Waveform/blob/master/waveform.png?raw=true)
 
